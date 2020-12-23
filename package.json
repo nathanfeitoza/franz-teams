@@ -1,0 +1,13 @@
+{
+  "id": "teams",
+  "name": "teams",
+  "version": "1.0.0",
+  "description": "Teams",
+  "main": "index.js",
+  "author": "Nathan Feitoza <nathanfeitoza@outlook.com.br>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://teams.microsoft.com",
+    "hasNotificationSound": true
+  }
+}
